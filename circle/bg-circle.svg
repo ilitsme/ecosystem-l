@@ -1,0 +1,78 @@
+<svg width="936.183105" height="936.183105" viewBox="0 0 936.183 936.183" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_2272_dd" x="0.000000" y="0.000000" width="936.183105" height="936.183105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="52" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_1_2301_dd" x="130.395508" y="248.916992" width="677.616699" height="508.833008" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="7.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<linearGradient id="paint_linear_1_2300_0" x1="251.634949" y1="327.659607" x2="505.134705" y2="637.765320" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#EBEFF2"/>
+			<stop offset="1.000000" stop-color="#FFFFFF"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_2301_0" x1="229.307587" y1="316.670837" x2="812.185791" y2="758.363953" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_2301_1" x1="229.307648" y1="316.670837" x2="723.487183" y2="710.164551" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.219608"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_1_2272_dd)">
+		<circle id="Ellipse 6806" cx="468.091797" cy="468.091797" r="312.091583" fill="#FF0000" fill-opacity="0"/>
+	</g>
+	<circle id="Ellipse 6806" cx="468.091797" cy="468.091797" r="311.791595" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6797" cx="468.091797" cy="468.091797" r="311.791595" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6797" cx="468.091797" cy="468.091797" r="311.791595" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6798" cx="468.091309" cy="468.091309" r="276.593292" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6798" cx="468.091309" cy="468.091309" r="276.593292" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6799" cx="468.091797" cy="468.091797" r="242.568268" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6799" cx="468.091797" cy="468.091797" r="242.568268" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6800" cx="468.091797" cy="468.091797" r="213.236359" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6800" cx="468.091797" cy="468.091797" r="213.236359" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6801" cx="468.091309" cy="468.091797" r="186.250977" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6801" cx="468.091309" cy="468.091797" r="186.250977" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6802" cx="468.091797" cy="468.091309" r="162.785461" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6802" cx="468.091797" cy="468.091309" r="162.785461" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6803" cx="468.091797" cy="468.091797" r="145.186310" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6803" cx="468.091797" cy="468.091797" r="145.186310" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6804" cx="468.092285" cy="468.092285" r="125.240585" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<circle id="Ellipse 6804" cx="468.092285" cy="468.092285" r="125.240585" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<ellipse id="Ellipse 6805" cx="468.058594" cy="468.091797" rx="110.103935" ry="109.487152" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<ellipse id="Ellipse 6805" cx="468.058594" cy="468.091797" rx="110.103935" ry="109.487152" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 311" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 311" d="M468.092 156.587L468.092 779.01" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 312" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 312" d="M578.275 176.744L357.908 758.852" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 313" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 313" d="M689.798 249.397L246.385 686.199" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 314" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 314" d="M756.186 350.094L179.997 585.502" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 315" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 315" d="M779.303 467.799L156.879 467.799" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 316" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 316" d="M754.566 589.39L181.615 346.207" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 317" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 317" d="M686.856 689.146L249.327 246.451" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<path id="Vector 318" d="" fill="#FF0000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="Vector 318" d="M576.935 759.356L359.249 176.241" stroke="#CFDCE9" stroke-opacity="1.000000" stroke-width="0.600000"/>
+	<mask id="mask1_2300" mask-type="alpha" maskUnits="userSpaceOnUse" x="127.937500" y="246.347656" width="684.248535" height="512.016113">
+		<path id="Vector 416" d="M354.488 246.348L284.33 391.784L150.265 429.832L127.938 473.341L276.635 503.502L331.102 672.51L388.105 599.286L503.142 749.656L578.115 758.364L578.115 599.286L680.428 624.182L592.731 486.521L761.455 443.145L812.186 370.53L659.965 360.577L695.044 270.547L467.032 328.358L354.488 246.348Z" fill="url(#paint_linear_1_2300_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector 416" d="M354.488 246.348L467.032 328.358L695.044 270.547L659.965 360.577L812.186 370.53L761.455 443.145L592.731 486.521L680.428 624.182L578.115 599.286L578.115 758.364L503.142 749.656L388.105 599.286L331.102 672.51L276.635 503.502L127.938 473.341L150.265 429.832L284.33 391.784L354.488 246.348Z" stroke="#D4D9DD" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	</mask>
+	<g mask="url(#mask1_2300)">
+		<g filter="url(#filter_1_2301_dd)">
+			<path id="Vector 424" d="M285.307 389.76L351.884 251.746C353.239 248.936 356.81 248.04 359.332 249.877L465.134 326.976C466.336 327.852 467.866 328.146 469.308 327.781L685.63 272.934C689.572 271.935 692.994 275.807 691.518 279.596L662.443 354.217C661.216 357.367 663.403 360.801 666.776 361.022L803.332 369.951C807.219 370.205 809.335 374.61 807.104 377.804L762.515 441.627C761.831 442.606 760.818 443.309 759.661 443.606L599.406 484.805C596.113 485.652 594.607 489.467 596.434 492.334L673.749 613.698C676.169 617.497 672.727 622.308 668.35 621.243L584.297 600.79C581.149 600.024 578.115 602.409 578.115 605.648L578.115 752.75C578.115 755.739 575.508 758.061 572.538 757.716L505.248 749.9C503.902 749.744 502.677 749.048 501.854 747.972L392.042 604.432C390.051 601.83 386.138 601.813 384.125 604.398L336.908 665.052C334.441 668.221 329.435 667.336 328.203 663.515L277.532 506.287C276.978 504.567 275.538 503.28 273.767 502.92L134.405 474.653C131.158 473.995 129.438 470.417 130.95 467.47L149.272 431.766C149.905 430.533 151.021 429.617 152.355 429.239L282.168 392.397C283.543 392.007 284.686 391.047 285.307 389.76Z" fill="url(#paint_linear_1_2301_0)" fill-opacity="0.300000" fill-rule="evenodd"/>
+		</g>
+		<path id="Vector 424" d="M285.307 389.76L351.884 251.746C353.239 248.936 356.81 248.04 359.332 249.877L465.134 326.976C466.336 327.852 467.866 328.146 469.308 327.781L685.63 272.934C689.572 271.935 692.994 275.807 691.518 279.596L662.443 354.217C661.216 357.367 663.403 360.801 666.776 361.022L803.332 369.951C807.219 370.205 809.335 374.61 807.104 377.804L762.515 441.627C761.831 442.606 760.818 443.309 759.661 443.606L599.406 484.805C596.113 485.652 594.607 489.467 596.434 492.334L673.749 613.698C676.169 617.497 672.727 622.308 668.35 621.243L584.297 600.79C581.149 600.024 578.115 602.409 578.115 605.648L578.115 752.75C578.115 755.739 575.508 758.061 572.538 757.716L505.248 749.9C503.902 749.744 502.677 749.048 501.854 747.972L392.042 604.432C390.051 601.83 386.138 601.813 384.125 604.398L336.908 665.052C334.441 668.221 329.435 667.336 328.203 663.515L277.532 506.287C276.978 504.567 275.538 503.28 273.767 502.92L134.405 474.653C131.158 473.995 129.438 470.417 130.95 467.47L149.272 431.766C149.905 430.533 151.021 429.617 152.355 429.239L282.168 392.397C283.543 392.007 284.686 391.047 285.307 389.76ZM288.909 391.498L355.486 253.484Q355.588 253.273 355.752 253.139Q355.917 253.005 356.144 252.948Q356.371 252.892 356.579 252.932Q356.787 252.972 356.976 253.11L462.779 330.208Q464.486 331.453 466.364 331.815Q468.243 332.178 470.291 331.658L686.614 276.811Q686.909 276.736 687.158 276.813Q687.407 276.89 687.609 277.118Q687.811 277.347 687.856 277.603Q687.902 277.859 687.791 278.144L658.716 352.765Q657.888 354.891 658.086 356.917Q658.285 358.942 659.51 360.866Q660.736 362.791 662.487 363.828Q664.238 364.865 666.515 365.013L803.071 373.942Q803.362 373.961 803.571 374.103Q803.78 374.244 803.907 374.507Q804.033 374.771 804.013 375.022Q803.993 375.273 803.825 375.513L759.236 439.336Q759.13 439.488 758.988 439.586Q758.845 439.686 758.666 439.732L598.41 480.931Q596.188 481.503 594.655 482.856Q593.123 484.209 592.28 486.343Q591.437 488.478 591.632 490.513Q591.828 492.548 593.061 494.483L670.375 615.848Q670.557 616.132 670.55 616.413Q670.542 616.692 670.346 616.967Q670.149 617.242 669.887 617.339Q669.624 617.437 669.296 617.356L585.243 596.904Q583.118 596.387 581.195 596.804Q579.273 597.221 577.554 598.572Q575.834 599.923 574.975 601.692Q574.115 603.461 574.115 605.648L574.115 752.75Q574.115 752.974 574.031 753.16Q573.947 753.347 573.78 753.496Q573.612 753.646 573.417 753.707Q573.222 753.769 573 753.743L505.709 745.927Q505.499 745.902 505.329 745.806Q505.159 745.709 505.03 745.541L395.219 602.001Q393.875 600.245 392.098 599.362Q390.32 598.479 388.108 598.47Q385.897 598.46 384.112 599.329Q382.327 600.196 380.969 601.941L333.751 662.595Q333.566 662.833 333.325 662.925Q333.084 663.018 332.788 662.966Q332.492 662.913 332.297 662.744Q332.103 662.574 332.01 662.288L281.339 505.06Q280.531 502.554 278.837 501.039Q277.143 499.523 274.562 499L135.2 470.733Q134.957 470.684 134.781 470.547Q134.605 470.41 134.498 470.186Q134.39 469.962 134.393 469.74Q134.396 469.517 134.509 469.296L152.831 433.592Q152.93 433.399 153.084 433.272Q153.238 433.146 153.447 433.087L283.26 396.246Q285.206 395.693 286.618 394.506Q288.03 393.319 288.909 391.498Z" fill="url(#paint_linear_1_2301_1)" fill-opacity="0.300000" fill-rule="evenodd"/>
+	</g>
+</svg>
