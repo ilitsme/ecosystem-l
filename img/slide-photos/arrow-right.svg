@@ -1,0 +1,43 @@
+<svg width="213.000000" height="165.999023" viewBox="0 0 213 165.999" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_1955_dd" x="62.483398" y="20.516602" width="103.515625" height="124.965820" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="7.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<filter id="filter_1_1956_dd" x="124.449219" y="29.550781" width="88.550781" height="106.900391" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="7.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<linearGradient id="paint_linear_1_1955_0" x1="82.102905" y1="23.695801" x2="82.999496" y2="165.998779" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_1955_1" x1="82.102898" y1="23.695801" x2="85.945488" y2="147.426392" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.219608"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_1956_0" x1="141.232544" y1="32.270241" x2="141.999512" y2="154.001251" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_1956_1" x1="141.232513" y1="32.270226" x2="144.519592" y2="138.113724" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.219608"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_1_1955_dd)">
+		<path id="Vector 446" d="M165.999 82.999L103.516 20.5166L62.4834 20.5166L124.966 82.999L62.4834 145.482L103.516 145.482L165.999 82.999Z" fill="url(#paint_linear_1_1955_0)" fill-opacity="0.300000" fill-rule="nonzero"/>
+	</g>
+	<path id="Vector 446" d="M122.138 80.1709L62.4834 20.5166L103.516 20.5166L165.999 82.999L103.516 145.482L62.4834 145.482L122.138 85.8281L124.966 82.999L122.138 80.1709ZM72.1401 141.482L130.623 82.999L72.1401 24.5166L101.859 24.5166L160.342 82.999L101.859 141.482L72.1401 141.482Z" fill="url(#paint_linear_1_1955_1)" fill-opacity="0.300000" fill-rule="evenodd"/>
+	<g filter="url(#filter_1_1956_dd)">
+		<path id="Vector 447" d="M213 83.001L159.55 29.5508L124.449 29.5508L177.899 83.001L124.449 136.451L159.55 136.451L213 83.001Z" fill="url(#paint_linear_1_1956_0)" fill-opacity="0.300000" fill-rule="nonzero"/>
+	</g>
+	<path id="Vector 447" d="M175.071 80.1719L124.449 29.5508L159.55 29.5508L213 83.001L159.55 136.451L124.449 136.451L175.071 85.8291L177.899 83.001L175.071 80.1719ZM134.106 132.451L183.556 83.001L134.106 33.5508L157.893 33.5508L207.343 83.001L157.893 132.451L134.106 132.451Z" fill="url(#paint_linear_1_1956_1)" fill-opacity="0.300000" fill-rule="evenodd"/>
+</svg>
